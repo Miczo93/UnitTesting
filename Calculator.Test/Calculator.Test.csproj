@@ -48,11 +48,16 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AssertTest.cs" />
     <Compile Include="CalculatorTest.cs" />
+    <Compile Include="InitCleanTest.cs" />
+    <Compile Include="InitCleanTest3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="DataTest.cs" />
+    <Compile Include="IngoreTimeTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

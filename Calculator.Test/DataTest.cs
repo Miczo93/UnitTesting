@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Calculator.Test
 {
     [TestClass]
-    public class CaculatorTest2
+    public class DataTest
     {
         private TestContext _testContext;
 
